@@ -1,2 +1,2 @@
-# university_managemnt_sys
-It is used to  manage the university students
+supermarket management app 
+it is used to manage the stock in the supermarket
